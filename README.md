@@ -28,15 +28,13 @@ Use Spectre simulator to perform transient and DC analyses.
 4. Waveform Analysis:
 Observe the output voltage waveform concerning the input voltage.
 Circuit Diagram:
-1. CMOS Inverter:
+1. Schematic of CMOS Inverter:
 image
 
-2. Schematic of CMOS Inverter:
+2. Transient Response Setup:
 image
 
-3. Transient Response Setup:
-image
-
+3. Voltage Transfer Characteristic (VTC) Setup:
 image
 
 Output
